@@ -31,3 +31,5 @@ The work around that worked is `conda install virtualenv`.
 virtualenv gcp_baby_cry
 source gcp_baby_cry/bin/activate
 ```
+
+[GCP Local Development Server](https://cloud.google.com/appengine/docs/standard/python/tools/using-local-server)
